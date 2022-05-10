@@ -1,0 +1,63 @@
+.group_Name{
+    position: absolute;
+/* width: 105px; */
+height: 17px;
+left: 100px;
+top: 260px;
+
+/* Label */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Text Primary */
+
+color: #545454;
+
+}
+
+input{
+    box-sizing: border-box;
+    width: 69%;
+    height: 25px;
+    position: absolute;
+    left: 100px;
+    right: 0px;
+    top: 48%;
+    /* bottom: -2.78%; */
+    
+    background: #FFFFFF;
+    /* Gray Dark */
+    
+    border: 1px solid #CED4DA;
+    border-radius: 6px;
+}
+
+::placeholder{
+    position: absolute;
+height: 19px;
+left: 12px;
+right: 12px;
+top: calc(50% - 19px/2 + 1.5px);
+
+/* Caption */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 131% */
+
+
+/* Text Tertiary */
+
+color: #A0A0A0;
+}

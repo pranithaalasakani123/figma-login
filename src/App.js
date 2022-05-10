@@ -1,23 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
+import LoginPage from './Components/LoginPage';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img className="image" src="https://s.yimg.com/ny/api/res/1.2/eljZQGQ3OItK2VQSE8uaqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTE1NQ--/https://s.yimg.com/uu/api/res/1.2/.OxZbSw1b0XWdP63LEHA6g--~B/aD04ODt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/98861489445ab83079abe3bdf455b3a2"></img>
+      <LoginPage />
     </div>
   );
 }

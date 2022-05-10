@@ -1,0 +1,23 @@
+.company{
+    position: absolute;
+width: 150px;
+height: 17px;
+left: 100px;
+top: 450px;
+
+/* Label */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Text Primary */
+
+color: #545454;
+}

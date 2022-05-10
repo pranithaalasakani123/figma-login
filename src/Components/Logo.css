@@ -1,0 +1,32 @@
+.top{
+position: absolute;
+left: 44.92%;
+right: 53.42%;
+top: 05.96%;
+bottom: 80.15%;
+background: #3766E8;
+border-radius: 100px;
+transform: matrix(0.86, -0.52, 0.51, 0.86, 0, 0);
+}
+
+
+.Middle{
+    position: absolute;
+    left: 47.50%;
+    right: 51.00%;
+    top: 7.96%;
+    bottom: 85.15%;
+    background: #3766E8;
+    border-radius: 100px;
+    transform: matrix(0.86, -0.52, 0.51, 0.86, 0, 0);
+}
+.bottom{
+    position: absolute;
+    left: 42.92%;
+    right: 55.42%;
+    top: 10.96%;
+    bottom: 80.15%;
+    background: #3766E8;
+    border-radius: 100px;
+    transform: matrix(0.86, -0.52, 0.51, 0.86, 0, 0);
+}

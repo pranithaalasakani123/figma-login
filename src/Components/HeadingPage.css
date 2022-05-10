@@ -1,0 +1,29 @@
+.heading{
+    position: absolute;
+width: 378px;
+height: 60px;
+left: 100px;
+top: 132px;
+
+/* Heading 3 */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 30px;
+text-align: center;
+
+/* Heading Primary */
+
+color: #212121;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+}

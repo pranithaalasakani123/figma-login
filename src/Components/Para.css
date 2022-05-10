@@ -1,0 +1,30 @@
+.para{
+    position: absolute;
+width: 378px;
+height: 37px;
+left: 100px;
+top: 188px;
+
+/* Caption */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* or 131% */
+
+text-align: center;
+
+/* Text Primary */
+
+color: #545454;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 16px 0px;
+}

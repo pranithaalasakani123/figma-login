@@ -1,0 +1,22 @@
+.login_page{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 40px 91px;
+    
+    position: absolute;
+    width: 400px;
+    height: 520px;
+    left: 440px;
+    top: 93px;
+    
+    /* White */
+    
+    background: #FFFFFF;
+    
+    
+    /* Normal box */
+    
+    box-shadow: 4px 4px 20px rgba(157, 157, 157, 0.12);
+    border-radius: 15px;
+}
